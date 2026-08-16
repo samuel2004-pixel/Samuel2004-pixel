@@ -42,7 +42,7 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=samuel2004-pixel&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00F5FF&icon_color=39FF14&text_color=00F5FF&ring_color=BF5AF2)](https://github.com/samuel2004-pixel) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel2004-pixel&layout=compact&langs_count=8&theme=synthwave&hide_border=true&bg_color=00000000&title_color=00F5FF&text_color=00F5FF)](https://github.com/samuel2004-pixel)
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=samuel2004-pixel&theme=synthwave&hide_border=true&background=00000000&ring=39FF14&fire=39FF14&currStreakLabel=00F5FF&sideLabels=BF5AF2&dates=888888&stroke=00F5FF)](https://github.com/samuel2004-pixel)
+[![Streak Stats](https://streak-stats.demolab.com/?user=samuel2004-pixel&theme=synthwave&hide_border=true&background=00000000&ring=39FF14&fire=39FF14&currStreakLabel=00F5FF&sideLabels=BF5AF2&dates=888888&stroke=00F5FF)](https://github.com/samuel2004-pixel)
 
 ---
 
