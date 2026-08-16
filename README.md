@@ -92,9 +92,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=samuelroshanc&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A0E1A&title_color=00F5FF&icon_color=39FF14&text_color=00F5FF&ring_color=BF5AF2&rank_icon=github" height="185em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=samuelroshanc&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A0E1A&title_color=00F5FF&icon_color=39FF14&text_color=00F5FF&ring_color=BF5AF2&rank_icon=github&cache_seconds=86400" height="185em"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelroshanc&layout=compact&langs_count=8&theme=synthwave&hide_border=true&bg_color=0A0E1A&title_color=00F5FF&text_color=00F5FF" height="185em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelroshanc&layout=compact&langs_count=8&theme=synthwave&hide_border=true&bg_color=0A0E1A&title_color=00F5FF&text_color=00F5FF&cache_seconds=86400" height="185em"/>
 
 <br/><br/>
 
