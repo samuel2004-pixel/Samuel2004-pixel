@@ -1,68 +1,81 @@
-<h1 align="center">Samuel Roshan</h1>
-<h3 align="center">AI/ML Engineer · GenAI · RAG</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/samuel-roshan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/samuel2004-pixel"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:samuelroshanin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=samuel2004-pixel&fontSize=75&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=%E2%9C%A5%20Full_Stack_GenAI%20%7C%20LangChain%20%7C%20RAG%20%7C%20AI_Engineer&descAlignY=58&descSize=18&descColor=39FF14" />
 
-<p align="center">
-  <i>"I build RAG pipelines and LLM-powered systems — turning models into products that actually answer questions."</i>
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&weight=700&size=26&duration=2000&pause=1000&color=00F5FF&background=00000000&center=true&vCenter=true&width=750&lines=%3E+Initializing+Samuel.exe...;%3E+Loading+Trading+Bot+Modules...;%3E+RAG+%2B+LangChain+%2B+Agents+Online...;%3E+Open+Source+Mode+Enabled...;%3E+Ready+to+Ship+Code." />
+
+[![](https://komarev.com/ghpvc/?username=samuel2004-pixel&style=for-the-badge&color=00F5FF&label=PROFILE+SCANS&labelColor=0A0E1A)](https://github.com/samuel2004-pixel) [![](https://img.shields.io/github/followers/samuel2004-pixel?style=for-the-badge&color=39FF14&label=OPERATIVES&logo=github&labelColor=0A0E1A)](https://github.com/samuel2004-pixel?tab=followers) [![](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=0A0E1A&logo=statuspage)](https://github.com/samuel2004-pixel)
+
+</div>
 
 ---
 
-### 👋 Who I Am
-
-I'm an **AI & Data Science graduate** from Jeppiaar Engineering College, Chennai, focused on **Generative AI, RAG pipelines, LangChain, and AI Agents**. I work across the full ML workflow — data cleaning, model development, and deployment — using PyTorch, TensorFlow, and Scikit-learn.
-
-Currently freelancing on AI/ML projects, after a Data Science & Analysis internship at **Judah Code Technologies**, Trichy.
-
-- 🔭 Currently building: RAG pipelines, LangChain apps, and AI agents
-- 🌱 Learning: Agentic AI systems and LLM deployment
-- 💬 Ask me about: LangChain, RAG, FAISS/ChromaDB, PyTorch, TensorFlow
-- 📍 Based in: Chennai, India
-
----
-
-### 🛠️ Tech Stack
-
-**Generative & Agentic AI:** ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) ![FAISS](https://img.shields.io/badge/-FAISS-4B0082?style=flat-square) ![ChromaDB](https://img.shields.io/badge/-ChromaDB-6E56CF?style=flat-square)
-
-**ML / Deep Learning:** ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square)
-
-**Data & Visualization:** ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![PowerBI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-**Deployment & Tools:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-**Languages & Cloud:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
----
-
-### 📌 Featured Projects
-
-| Project | Description |
+| `> SYSTEM_INFO.exe` | |
 |---|---|
-| [Lead Generation Agent](https://github.com/samuel2004-pixel/lead_generation_agent) | Agentic AI system automating lead generation and qualification |
-| [AI Finance Bot](https://github.com/samuel2004-pixel/finance-bot) | Conversational finance bot for automated financial guidance |
-| [LangChain Chatbot (RAG)](https://github.com/samuel2004-pixel/chat-bot-langchain) | Context-aware, document-grounded multi-turn chatbot |
-| [AI Health Assistant](https://github.com/samuel2004-pixel/health-assistant) | LLM-powered assistant for guided health queries |
-| [Traffic Congestion Simulator](https://github.com/samuel2004-pixel/traffic-Congestion-Simulator-for-Freeway-Corridors) | Simulation model for freeway congestion analysis |
+| ``` ┌──[samuel2004-pixel@cyber]─[~]                      │ ├─ NAME      : Samuel Roshan ├─ CODENAME  : samuel2004-pixel ├─ LOCATION  : Trichy, India [IN] 🇮🇳 ├─ CLASS     : AI / Data Science Engineer │ ├─ MISSION   : │   ├── 🤖 Generative AI & LLM Agents │   ├── 🔗 LangChain & RAG Pipelines │   └── 📊 Machine Learning & Data Science │ ├─ CURRENT   : Freelance AI Projects ├─ STATUS    : Actively Building └─ UPTIME    : 24/7 ♾️ ``` | [![Cyber Hacker GIF](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)](https://github.com/samuel2004-pixel) |
 
 ---
 
-### 📊 GitHub Stats
+### `> TECH_STACK --list`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuel2004-pixel&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuel2004-pixel" height="165"/>
-</p>
+**[ LANGUAGES ]**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel2004-pixel&layout=compact" height="165"/>
-</p>
+![](https://skillicons.dev/icons?i=python,js,html,css&theme=dark)
+
+**[ FRAMEWORKS ]**
+
+![](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,fastapi,streamlit,flask&theme=dark)
+
+**[ INFRASTRUCTURE ]**
+
+![](https://skillicons.dev/icons?i=docker,git,github,aws,linux,vscode&theme=dark)
 
 ---
 
-<p align="center">📫 Reach me at <b>samuelroshanin@gmail.com</b></p>
+### `> CONTRIBUTION_MATRIX --render`
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samuel2004-pixel&bg_color=00000000&color=00F5FF&line=39FF14&point=00F5FF&area_color=00F5FF&hide_border=true&custom_title=%5B+NEURAL+COMMIT+ACTIVITY+%5D&title_color=00F5FF)](https://github.com/samuel2004-pixel)
+
+---
+
+### `> GITHUB_STATS --verbose`
+
+[![](https://github-readme-stats.vercel.app/api?username=samuel2004-pixel&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00F5FF&icon_color=39FF14&text_color=00F5FF&ring_color=BF5AF2)](https://github.com/samuel2004-pixel) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel2004-pixel&layout=compact&langs_count=8&theme=synthwave&hide_border=true&bg_color=00000000&title_color=00F5FF&text_color=00F5FF)](https://github.com/samuel2004-pixel)
+
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=samuel2004-pixel&theme=synthwave&hide_border=true&background=00000000&ring=39FF14&fire=39FF14&currStreakLabel=00F5FF&sideLabels=BF5AF2&dates=888888&stroke=00F5FF)](https://github.com/samuel2004-pixel)
+
+---
+
+### `> SNAKE.exe --eat-contributions`
+
+![github-snake](https://raw.githubusercontent.com/samuel2004-pixel/samuel2004-pixel/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+### `> ACHIEVEMENT_SCAN --unlock`
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=samuel2004-pixel&theme=matrix&no-frame=false&no-bg=false&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/samuel2004-pixel)
+
+---
+
+### `> ACTIVE_OPERATIONS --status`
+
+| `PROJECT` | `DESCRIPTION` | `STATUS` |
+|---|---|---|
+| 📰 **Fake News Detection** | AI-based misinformation classifier — final year project | `[IN_PROGRESS]` |
+| ⚙️ **Job Alert Automation** | n8n workflow — SerpApi + Gmail + Telegram + Sheets | `[DEPLOYED ✓]` |
+| 🔗 **LangChain Chatbot** | Conversational AI built with LangChain | `[COMPLETE ✓]` |
+| 💊 **AI Health Assistant** | Health-focused AI assistant | `[COMPLETE ✓]` |
+| 🚦 **Traffic Congestion Simulator** | Freeway corridor traffic simulation | `[COMPLETE ✓]` |
+
+---
+
+### `> ESTABLISH_CONNECTION --protocols`
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=0A0E1A)](https://www.linkedin.com/in/samuel-roshan) [![GitHub](https://img.shields.io/badge/GITHUB-39FF14?style=for-the-badge&logo=github&logoColor=0A0E1A&labelColor=0A0E1A)](https://github.com/samuel2004-pixel) [![Gmail](https://img.shields.io/badge/SECURE_MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0E1A)](mailto:YOUR_EMAIL@gmail.com)
+
+[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)](https://github.com/samuel2004-pixel)
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&animation=fadeIn&reversal=true" />
+
+</div>
