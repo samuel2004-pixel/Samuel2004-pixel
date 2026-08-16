@@ -134,7 +134,7 @@
 
 | `PROJECT` | `DESCRIPTION` | `STATUS` |
 |-----------|---------------|----------|
-| 📰 **Fake News Detection** | AI-based misinformation classifier — final year project | `[IN_PROGRESS]` |
+| 📰 **Fake News Detection** | AI-based misinformation classifier  | `[IN_PROGRESS]` |
 | ⚙️ **Job Alert Automation** | n8n workflow — SerpApi + Gmail + Telegram + Sheets | `[DEPLOYED ✓]` |
 | 🔗 **LangChain Chatbot** | Conversational AI built with LangChain | `[COMPLETE ✓]` |
 | 💊 **AI Health Assistant** | Health-focused AI assistant | `[COMPLETE ✓]` |
