@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=44&duration=3500&pause=1500&color=00F5FF&background=00000000&center=true&vCenter=true&width=800&height=70&lines=SAMUEL+ROSHAN" alt="Samuel Roshan" />
 
 <!-- Cyber Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=24&duration=2000&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=800&lines=%3E+Initializing+Samuel.exe...;%3E+AI+Engineer+Intern+%40+Modofx+%5BOK%5D;%3E+AI+Agents+%2B+LLMs+%2B+RAG+Online...+%5BOK%5D;%3E+CRM+%26+Tally+Automations...+%5BOK%5D;%3E+Ready+to+Ship+Code.+%5BREADY%5D" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=24&duration=2000&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=800&lines=%3E+Initializing+Samuel.exe...;%3E+AI+Engineer+Online...+%5BOK%5D;%3E+AI+Agents+%2B+LLMs+%2B+RAG+Online...+%5BOK%5D;%3E+Automation+Workflows...+%5BOK%5D;%3E+Ready+to+Ship+Code.+%5BREADY%5D" alt="Typing" />
 
 <br/>
 
@@ -30,12 +30,11 @@
 │
 ├─ NAME      : Samuel Roshan
 ├─ LOCATION  : Chennai, India [IN]
-├─ CLASS     : AI Engineer Intern @ Modofx
+├─ CLASS     : AI Engineer
 ├─ EDUCATION : B.Tech AI & Data Science (2026)
 │
 ├─ MISSION   :
-│   ├── 🤖 AI agent automation for Hyundai
-│   ├── 🔁 CRM & Tally automations
+│   ├── 🤖 AI agents & automation
 │   ├── 🔗 LLMs, RAG pipelines & Redis
 │   └── 🚀 Deployment & CI/CD (Coolify)
 │
@@ -124,8 +123,6 @@
 
 | `WORK` | `DESCRIPTION` | `STATUS` |
 |--------|---------------|----------|
-| 🤖 **AI agent automation (Hyundai)** | AI agents that automate business email workflows, at Modofx | `[IN_PROGRESS]` |
-| 🔁 **CRM & Tally automations** | Automations for clients, at Modofx | `[LIVE ✓]` |
 | 🎯 **[Lead Generation Agent](https://github.com/samuel2004-pixel/lead_generation_agent)** | Finds and qualifies sales leads with LLMs | `[COMPLETE ✓]` |
 | 🧩 **[Job Match Agent](https://github.com/samuel2004-pixel/job-match-agent)** | Matches candidates to jobs with retrieval | `[COMPLETE ✓]` |
 | 🎙️ **[Meeting Transcription Agent](https://github.com/samuel2004-pixel/meeting-transcription-agent)** | Transcribes and summarizes meetings | `[COMPLETE ✓]` |
